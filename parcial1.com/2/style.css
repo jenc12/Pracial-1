@@ -1,0 +1,32 @@
+html {
+    height: 100%;
+}
+
+
+h1.titulo {
+    text-align: center;
+    background-color: darkblue;
+    background-image: url(../2/utils/metroidlogo.png.png);
+    
+}
+
+div.titulostyle {
+    background-image: url(../2/utils/metroidlogo.png.png);
+}
+
+body {
+    background-color: #162C34;
+    background-color: #555555;
+}
+
+table {
+    align-items: center;
+    
+}
+
+th, tr, td {
+    color: #D2FFFF;
+}
+
+
+    
